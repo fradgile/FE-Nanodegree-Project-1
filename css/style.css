@@ -1,0 +1,32 @@
+#featured {
+    color: #BCBBBB;
+}
+
+#logo {
+    margin-top: 10px;
+}
+
+#main_image {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.links {
+    color: #BCBBBB;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 5px;
+    border-color: #BCBBBB;
+}
+
+p, h3 {
+    color: #747704;
+    text-align: center;
+}
