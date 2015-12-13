@@ -7,10 +7,6 @@
 }
 
 #main_image {
-
-    position:relative;
-    overflow:hidden;
-
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -21,20 +17,6 @@
 
 .links {
     color: #BCBBBB;
-}
-
-.caption {
-    position:absolute;
-    top:0;
-    right:0;
-    background:rgba(90, 90, 90, 0.75);
-    width:100%;
-    height:100%;
-    padding:2%;
-    display: none;
-    text-align: left;
-    color:#fff !important;
-    z-index:2;
 }
 
 hr {
