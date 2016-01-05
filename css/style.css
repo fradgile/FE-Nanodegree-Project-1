@@ -1,22 +1,35 @@
 #featured {
     color: #BCBBBB;
+    font-family: 'Boogaloo', cursive;
 }
 
 #logo {
     margin-top: 10px;
 }
 
-#main_image {
+#main-image {
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-#header_signature {
+#header-signature {
     font-family: 'Boogaloo', cursive;
 }
 
 .links {
     color: #BCBBBB;
+}
+
+.navbar-default .navbar-collapse {
+    background-color: #E6E6FA;
+}
+
+.container-fluid {
+    background-color: #E6E6FA;
+}
+
+.collapsing {
+    background-color: grey;
 }
 
 hr {
@@ -29,11 +42,20 @@ hr {
     border-color: #BCBBBB;
 }
 
-p, h3 {
+h3 {
     color: #747704;
     text-align: center;
+    font-family: 'Boogaloo', cursive;
+}
+
+p {
+    color: #747704;
+    text-align: center;
+    font-family: 'Boogaloo', cursive;
+    font-size: 150%
 }
 
 body {
     background-color: #E6E6FA;
 }
+
