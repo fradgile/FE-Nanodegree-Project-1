@@ -1,4 +1,4 @@
-#featured {
+#featured-text {
     color: #BCBBBB;
     font-family: 'Boogaloo', cursive;
 }
@@ -42,20 +42,16 @@ hr {
     border-color: #BCBBBB;
 }
 
-h3 {
-    color: #747704;
-    text-align: center;
-    font-family: 'Boogaloo', cursive;
+p {
+    font-size: 150%
 }
 
-p {
-    color: #747704;
-    text-align: center;
+article {
+     color: #747704;
+    text-align: left;
     font-family: 'Boogaloo', cursive;
-    font-size: 150%
 }
 
 body {
     background-color: #E6E6FA;
 }
-
